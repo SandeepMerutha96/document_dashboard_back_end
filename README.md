@@ -22,6 +22,24 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+  ## Instrruction to folow to execute back-end in local
+  Please follow below instruction to run the fron-end UI.
+## Use node 18 version
+## nvm install 18
+## nvm use 18
+## npm run start:dev
+
+## check for url with http://localhost:3000
+## use this route for execution all methods end points execution http://localhost:3000/users
+
+## there is single module users responsible to execute  all end points.
+
+
+APP-Side Feature ::
+
+1.Add new user
+2.Edit User 3.Delete User 4.Download page List Pdf 5.Downloaded list PDF to view in app needs to be implemented.
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
